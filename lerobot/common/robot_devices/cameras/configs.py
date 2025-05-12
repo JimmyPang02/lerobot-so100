@@ -73,6 +73,7 @@ class IntelRealSenseCameraConfig(CameraConfig):
     IntelRealSenseCameraConfig(128422271347, 30, 1280, 720)
     IntelRealSenseCameraConfig(128422271347, 30, 640, 480, use_depth=True)
     IntelRealSenseCameraConfig(128422271347, 30, 640, 480, rotation=90)
+    
     ```
     """
 
